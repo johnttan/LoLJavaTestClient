@@ -1,0 +1,5 @@
+Node.js Express example app built by John Tan.
+
+This app runs LeagueLib by Chimala, Tenneson, and Saldanha as a process and serves up JSON data via a REST interface.
+
+See https://github.com/achimala/leaguelib for source of LeagueLib.
